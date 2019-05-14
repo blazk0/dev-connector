@@ -1,3 +1,6 @@
 {
-  "mongoURI": "mongodb+srv://amr123:amr123@cluster0-meeve.mongodb.net/test?retryWrites=true"
+  "mongoURI": "mongodb+srv://amr123:amr123@cluster0-meeve.mongodb.net/test?retryWrites=true",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "b4e922c4d1217e007159",
+  "githubSecret": "beca6bf80064a7ebe9f403a59a474833e8607cc0"
 }
